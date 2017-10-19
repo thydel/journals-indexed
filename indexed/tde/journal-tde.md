@@ -1,8 +1,7 @@
 
-- [Top level (github)](https://github.com/Epiconcept-Paris/infra-journals-indexed)
-- [Top level (local)](/) with grip [grip](https://github.com/joeyespo/grip)
-
 # Short Table of Contents
+- [Top level (github)](https://github.com/thydel/journals-indexed)
+- [Top level (local)](/) with grip [grip](https://github.com/joeyespo/grip)
 - [All groups](#all-groups)
 - [All items](#all-items)
 - [By dates](#by-dates)
