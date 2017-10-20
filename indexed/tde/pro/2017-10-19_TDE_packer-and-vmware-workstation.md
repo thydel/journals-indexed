@@ -1,4 +1,4 @@
-**Uses packer and vmware workstation**
+**Install and try packer and vmware workstation**
 
 - [all index](/indexed/tde/journal-tde.md)
 - tags: [packer](/indexed/tde/journal-tde.md#tags-packer), [vagrant](/indexed/tde/journal-tde.md#tags-vagrant), [vmware-workstation](/indexed/tde/journal-tde.md#tags-vmware-workstation), [virtualbox](/indexed/tde/journal-tde.md#tags-virtualbox), [aws](/indexed/tde/journal-tde.md#tags-aws), [digitalocean](/indexed/tde/journal-tde.md#tags-digitalocean)

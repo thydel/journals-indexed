@@ -17,38 +17,55 @@
 
 # [All](#short-table-of-contents) items
 
-- [Uses packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+- [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+- [packer and ovftool](pro/2017-10-20_TDE_packer-and-ovftool.md) 2017-10-20
 
 # [By](#short-table-of-contents) dates
+- [2017-10-20](#dates-2017-10-20)
 - [2017-10-19](#dates-2017-10-19)
 ## [dates](#by-dates) 2017-10-19
-- [Uses packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+- [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+
+## [dates](#by-dates) 2017-10-20
+- [packer and ovftool](pro/2017-10-20_TDE_packer-and-ovftool.md) 2017-10-20
 
 
 # [By](#short-table-of-contents) tags
 - [aws](#tags-aws)
 - [digitalocean](#tags-digitalocean)
+- [ovftool](#tags-ovftool)
 - [packer](#tags-packer)
 - [vagrant](#tags-vagrant)
 - [virtualbox](#tags-virtualbox)
 - [vmware-workstation](#tags-vmware-workstation)
+- [vsphere](#tags-vsphere)
 ## [tags](#by-tags) aws
-- [Uses packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+- [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
 
 ## [tags](#by-tags) digitalocean
-- [Uses packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+- [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+
+## [tags](#by-tags) ovftool
+- [packer and ovftool](pro/2017-10-20_TDE_packer-and-ovftool.md) 2017-10-20
 
 ## [tags](#by-tags) packer
-- [Uses packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+- [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+
+- [packer and ovftool](pro/2017-10-20_TDE_packer-and-ovftool.md) 2017-10-20
 
 ## [tags](#by-tags) vagrant
-- [Uses packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+- [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
 
 ## [tags](#by-tags) virtualbox
-- [Uses packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+- [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
 
 ## [tags](#by-tags) vmware-workstation
-- [Uses packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+- [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+
+- [packer and ovftool](pro/2017-10-20_TDE_packer-and-ovftool.md) 2017-10-20
+
+## [tags](#by-tags) vsphere
+- [packer and ovftool](pro/2017-10-20_TDE_packer-and-ovftool.md) 2017-10-20
 
 
 # [By](#short-table-of-contents) nodes
@@ -56,7 +73,7 @@
 # [By](#short-table-of-contents) repos
 - [https://github.com/thydel/misc-play](#repos-https://github.com/thydel/misc-play)
 ## [repos](#by-repos) https://github.com/thydel/misc-play
-- [Uses packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+- [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
 
 
 # [By](#short-table-of-contents) users
@@ -64,7 +81,9 @@
 # [By](#short-table-of-contents) actors
 - [TDE](#actors-tde)
 ## [actors](#by-actors) TDE
-- [Uses packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+- [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+
+- [packer and ovftool](pro/2017-10-20_TDE_packer-and-ovftool.md) 2017-10-20
 
 
 # [By](#short-table-of-contents) requesters
@@ -78,13 +97,16 @@ Table of Contents
    * [All items](#all-items)
    * [By dates](#by-dates)
       * [dates 2017-10-19](#dates-2017-10-19)
+      * [dates 2017-10-20](#dates-2017-10-20)
    * [By tags](#by-tags)
       * [tags aws](#tags-aws)
       * [tags digitalocean](#tags-digitalocean)
+      * [tags ovftool](#tags-ovftool)
       * [tags packer](#tags-packer)
       * [tags vagrant](#tags-vagrant)
       * [tags virtualbox](#tags-virtualbox)
       * [tags vmware-workstation](#tags-vmware-workstation)
+      * [tags vsphere](#tags-vsphere)
    * [By nodes](#by-nodes)
    * [By repos](#by-repos)
       * [<a href="#by-repos">repos</a> https://github.com/thydel/misc-play](#repos-httpsgithubcomthydelmisc-play)
