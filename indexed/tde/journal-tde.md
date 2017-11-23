@@ -21,8 +21,10 @@
 - [packer and ovftool](pro/2017-10-20_TDE_packer-and-ovftool.md) 2017-10-20
 - [Uses hg2github to migrate sudoersd roles](pro/2017-10-24_TDE_hg2github.md) 2017-10-24
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
+- [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
 
 # [By](#short-table-of-contents) dates
+- [2017-11-22](#dates-2017-11-22)
 - [2017-10-24](#dates-2017-10-24)
 - [2017-10-20](#dates-2017-10-20)
 - [2017-10-19](#dates-2017-10-19)
@@ -37,11 +39,17 @@
 
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
 
+## [dates](#by-dates) 2017-11-22
+- [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
+
 
 # [By](#short-table-of-contents) tags
 - [ansible](#tags-ansible)
 - [aws](#tags-aws)
 - [digitalocean](#tags-digitalocean)
+- [gnome-keyring-dameon](#tags-gnome-keyring-dameon)
+- [gnupg](#tags-gnupg)
+- [gpg-agent](#tags-gpg-agent)
 - [hg2github](#tags-hg2github)
 - [infra](#tags-infra)
 - [legacy](#tags-legacy)
@@ -50,6 +58,8 @@
 - [reboot](#tags-reboot)
 - [repos](#tags-repos)
 - [role](#tags-role)
+- [ssh](#tags-ssh)
+- [ssh-agent](#tags-ssh-agent)
 - [sudo](#tags-sudo)
 - [vagrant](#tags-vagrant)
 - [virtualbox](#tags-virtualbox)
@@ -65,6 +75,15 @@
 
 ## [tags](#by-tags) digitalocean
 - [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+
+## [tags](#by-tags) gnome-keyring-dameon
+- [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
+
+## [tags](#by-tags) gnupg
+- [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
+
+## [tags](#by-tags) gpg-agent
+- [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
 
 ## [tags](#by-tags) hg2github
 - [Uses hg2github to migrate sudoersd roles](pro/2017-10-24_TDE_hg2github.md) 2017-10-24
@@ -95,6 +114,12 @@
 - [Uses hg2github to migrate sudoersd roles](pro/2017-10-24_TDE_hg2github.md) 2017-10-24
 
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
+
+## [tags](#by-tags) ssh
+- [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
+
+## [tags](#by-tags) ssh-agent
+- [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
 
 ## [tags](#by-tags) sudo
 - [Uses hg2github to migrate sudoersd roles](pro/2017-10-24_TDE_hg2github.md) 2017-10-24
@@ -149,6 +174,8 @@
 
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
 
+- [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
+
 
 # [By](#short-table-of-contents) requesters
 
@@ -163,10 +190,14 @@ Table of Contents
       * [dates 2017-10-19](#dates-2017-10-19)
       * [dates 2017-10-20](#dates-2017-10-20)
       * [dates 2017-10-24](#dates-2017-10-24)
+      * [dates 2017-11-22](#dates-2017-11-22)
    * [By tags](#by-tags)
       * [tags ansible](#tags-ansible)
       * [tags aws](#tags-aws)
       * [tags digitalocean](#tags-digitalocean)
+      * [tags gnome-keyring-dameon](#tags-gnome-keyring-dameon)
+      * [tags gnupg](#tags-gnupg)
+      * [tags gpg-agent](#tags-gpg-agent)
       * [tags hg2github](#tags-hg2github)
       * [tags infra](#tags-infra)
       * [tags legacy](#tags-legacy)
@@ -175,6 +206,8 @@ Table of Contents
       * [tags reboot](#tags-reboot)
       * [tags repos](#tags-repos)
       * [tags role](#tags-role)
+      * [tags ssh](#tags-ssh)
+      * [tags ssh-agent](#tags-ssh-agent)
       * [tags sudo](#tags-sudo)
       * [tags vagrant](#tags-vagrant)
       * [tags virtualbox](#tags-virtualbox)
