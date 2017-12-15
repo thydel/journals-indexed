@@ -22,8 +22,10 @@
 - [Uses hg2github to migrate sudoersd roles](pro/2017-10-24_TDE_hg2github.md) 2017-10-24
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
 - [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
+- [Discover simple use of inotifywait](pro/2017-12-15_TDE_inotifywait.md) 2017-12-15
 
 # [By](#short-table-of-contents) dates
+- [2017-12-15](#dates-2017-12-15)
 - [2017-11-22](#dates-2017-11-22)
 - [2017-10-24](#dates-2017-10-24)
 - [2017-10-20](#dates-2017-10-20)
@@ -42,6 +44,9 @@
 ## [dates](#by-dates) 2017-11-22
 - [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
 
+## [dates](#by-dates) 2017-12-15
+- [Discover simple use of inotifywait](pro/2017-12-15_TDE_inotifywait.md) 2017-12-15
+
 
 # [By](#short-table-of-contents) tags
 - [ansible](#tags-ansible)
@@ -52,6 +57,7 @@
 - [gpg-agent](#tags-gpg-agent)
 - [hg2github](#tags-hg2github)
 - [infra](#tags-infra)
+- [inotify](#tags-inotify)
 - [legacy](#tags-legacy)
 - [ovftool](#tags-ovftool)
 - [packer](#tags-packer)
@@ -90,6 +96,9 @@
 
 ## [tags](#by-tags) infra
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
+
+## [tags](#by-tags) inotify
+- [Discover simple use of inotifywait](pro/2017-12-15_TDE_inotifywait.md) 2017-12-15
 
 ## [tags](#by-tags) legacy
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
@@ -176,6 +185,8 @@
 
 - [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
 
+- [Discover simple use of inotifywait](pro/2017-12-15_TDE_inotifywait.md) 2017-12-15
+
 
 # [By](#short-table-of-contents) requesters
 
@@ -191,6 +202,7 @@ Table of Contents
       * [dates 2017-10-20](#dates-2017-10-20)
       * [dates 2017-10-24](#dates-2017-10-24)
       * [dates 2017-11-22](#dates-2017-11-22)
+      * [dates 2017-12-15](#dates-2017-12-15)
    * [By tags](#by-tags)
       * [tags ansible](#tags-ansible)
       * [tags aws](#tags-aws)
@@ -200,6 +212,7 @@ Table of Contents
       * [tags gpg-agent](#tags-gpg-agent)
       * [tags hg2github](#tags-hg2github)
       * [tags infra](#tags-infra)
+      * [tags inotify](#tags-inotify)
       * [tags legacy](#tags-legacy)
       * [tags ovftool](#tags-ovftool)
       * [tags packer](#tags-packer)

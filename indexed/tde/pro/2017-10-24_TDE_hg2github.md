@@ -2,7 +2,6 @@
 
 - [all index](/indexed/tde/journal-tde.md)
 - tags: [hg2github](/indexed/tde/journal-tde.md#tags-hg2github), [ansible](/indexed/tde/journal-tde.md#tags-ansible), [role](/indexed/tde/journal-tde.md#tags-role), [repos](/indexed/tde/journal-tde.md#tags-repos), [sudo](/indexed/tde/journal-tde.md#tags-sudo)
-- nodes: 
 - repos: https://github.com/thydel/helpers, https://github.com/thydel/ar-sudoersd
 - actors: [tde](/indexed/tde/journal-tde.md#actors-tde)
 

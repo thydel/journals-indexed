@@ -2,8 +2,6 @@
 
 - [all index](/indexed/tde/journal-tde.md)
 - tags: [packer](/indexed/tde/journal-tde.md#tags-packer), [vmware-workstation](/indexed/tde/journal-tde.md#tags-vmware-workstation), [ovftool](/indexed/tde/journal-tde.md#tags-ovftool), [vsphere](/indexed/tde/journal-tde.md#tags-vsphere)
-- nodes: 
-- repos: 
 - actors: [tde](/indexed/tde/journal-tde.md#actors-tde)
 
 

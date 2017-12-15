@@ -2,8 +2,6 @@
 
 - [all index](/indexed/tde/journal-tde.md)
 - tags: [ssh](/indexed/tde/journal-tde.md#tags-ssh), [ssh-agent](/indexed/tde/journal-tde.md#tags-ssh-agent), [gnupg](/indexed/tde/journal-tde.md#tags-gnupg), [gpg-agent](/indexed/tde/journal-tde.md#tags-gpg-agent), [gnome-keyring-dameon](/indexed/tde/journal-tde.md#tags-gnome-keyring-dameon)
-- nodes: 
-- repos: 
 - actors: [tde](/indexed/tde/journal-tde.md#actors-tde)
 
 

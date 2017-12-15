@@ -2,7 +2,6 @@
 
 - [all index](/indexed/tde/journal-tde.md)
 - tags: [packer](/indexed/tde/journal-tde.md#tags-packer), [vagrant](/indexed/tde/journal-tde.md#tags-vagrant), [vmware-workstation](/indexed/tde/journal-tde.md#tags-vmware-workstation), [virtualbox](/indexed/tde/journal-tde.md#tags-virtualbox), [aws](/indexed/tde/journal-tde.md#tags-aws), [digitalocean](/indexed/tde/journal-tde.md#tags-digitalocean)
-- nodes: 
 - repos: https://github.com/thydel/misc-play
 - actors: [tde](/indexed/tde/journal-tde.md#actors-tde)
 

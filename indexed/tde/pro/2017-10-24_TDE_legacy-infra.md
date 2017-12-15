@@ -2,7 +2,6 @@
 
 - [all index](/indexed/tde/journal-tde.md)
 - tags: [legacy](/indexed/tde/journal-tde.md#tags-legacy), [ansible](/indexed/tde/journal-tde.md#tags-ansible), [role](/indexed/tde/journal-tde.md#tags-role), [repos](/indexed/tde/journal-tde.md#tags-repos), [infra](/indexed/tde/journal-tde.md#tags-infra), [reboot](/indexed/tde/journal-tde.md#tags-reboot)
-- nodes: 
 - repos: https://github.com/thydel/helpers, https://github.com/thydel/legacy-infra
 - actors: [tde](/indexed/tde/journal-tde.md#actors-tde)
 
