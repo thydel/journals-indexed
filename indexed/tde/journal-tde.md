@@ -23,8 +23,10 @@
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
 - [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
 - [Discover simple use of inotifywait](pro/2017-12-15_TDE_inotifywait.md) 2017-12-15
+- [Fixes printer problem](pro/2018-01-08_TDE_print-broken.md) 2018-01-08
 
 # [By](#short-table-of-contents) dates
+- [2018-01-08](#dates-2018-01-08)
 - [2017-12-15](#dates-2017-12-15)
 - [2017-11-22](#dates-2017-11-22)
 - [2017-10-24](#dates-2017-10-24)
@@ -47,6 +49,9 @@
 ## [dates](#by-dates) 2017-12-15
 - [Discover simple use of inotifywait](pro/2017-12-15_TDE_inotifywait.md) 2017-12-15
 
+## [dates](#by-dates) 2018-01-08
+- [Fixes printer problem](pro/2018-01-08_TDE_print-broken.md) 2018-01-08
+
 
 # [By](#short-table-of-contents) tags
 - [ansible](#tags-ansible)
@@ -61,6 +66,7 @@
 - [legacy](#tags-legacy)
 - [ovftool](#tags-ovftool)
 - [packer](#tags-packer)
+- [printer](#tags-printer)
 - [reboot](#tags-reboot)
 - [repos](#tags-repos)
 - [role](#tags-role)
@@ -111,6 +117,9 @@
 
 - [packer and ovftool](pro/2017-10-20_TDE_packer-and-ovftool.md) 2017-10-20
 
+## [tags](#by-tags) printer
+- [Fixes printer problem](pro/2018-01-08_TDE_print-broken.md) 2018-01-08
+
 ## [tags](#by-tags) reboot
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
 
@@ -149,6 +158,12 @@
 
 
 # [By](#short-table-of-contents) nodes
+- [tde-ws](#nodes-tde-ws)
+## [nodes](#by-nodes) tde-ws
+- [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
+
+- [Fixes printer problem](pro/2018-01-08_TDE_print-broken.md) 2018-01-08
+
 
 # [By](#short-table-of-contents) repos
 - [https://github.com/thydel/ar-sudoersd](#repos-https://github.com/thydel/ar-sudoersd)
@@ -187,6 +202,8 @@
 
 - [Discover simple use of inotifywait](pro/2017-12-15_TDE_inotifywait.md) 2017-12-15
 
+- [Fixes printer problem](pro/2018-01-08_TDE_print-broken.md) 2018-01-08
+
 
 # [By](#short-table-of-contents) requesters
 
@@ -203,6 +220,7 @@ Table of Contents
       * [dates 2017-10-24](#dates-2017-10-24)
       * [dates 2017-11-22](#dates-2017-11-22)
       * [dates 2017-12-15](#dates-2017-12-15)
+      * [dates 2018-01-08](#dates-2018-01-08)
    * [By tags](#by-tags)
       * [tags ansible](#tags-ansible)
       * [tags aws](#tags-aws)
@@ -216,6 +234,7 @@ Table of Contents
       * [tags legacy](#tags-legacy)
       * [tags ovftool](#tags-ovftool)
       * [tags packer](#tags-packer)
+      * [tags printer](#tags-printer)
       * [tags reboot](#tags-reboot)
       * [tags repos](#tags-repos)
       * [tags role](#tags-role)
@@ -227,6 +246,7 @@ Table of Contents
       * [tags vmware-workstation](#tags-vmware-workstation)
       * [tags vsphere](#tags-vsphere)
    * [By nodes](#by-nodes)
+      * [nodes tde-ws](#nodes-tde-ws)
    * [By repos](#by-repos)
       * [<a href="#by-repos">repos</a> https://github.com/thydel/ar-sudoersd](#repos-httpsgithubcomthydelar-sudoersd)
       * [<a href="#by-repos">repos</a> https://github.com/thydel/helpers](#repos-httpsgithubcomthydelhelpers)

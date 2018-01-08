@@ -2,14 +2,17 @@
 
 - [all index](/indexed/tde/journal-tde.md)
 - tags: [ssh](/indexed/tde/journal-tde.md#tags-ssh), [ssh-agent](/indexed/tde/journal-tde.md#tags-ssh-agent), [gnupg](/indexed/tde/journal-tde.md#tags-gnupg), [gpg-agent](/indexed/tde/journal-tde.md#tags-gpg-agent), [gnome-keyring-dameon](/indexed/tde/journal-tde.md#tags-gnome-keyring-dameon)
+- nodes: [tde-ws](/indexed/tde/journal-tde.md#nodes-tde-ws)
 - actors: [tde](/indexed/tde/journal-tde.md#actors-tde)
 
 
 
 # Table of Contents
 
+-   [Back to ssh-agent](#back-to-ssh-agent)
 
 
+# Back to ssh-agent
 
 On my `debian9` workstation trying to get an ssh-agent *as usual*, I fight with:
 
