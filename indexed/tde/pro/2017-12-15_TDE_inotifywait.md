@@ -1,6 +1,7 @@
 **Discover simple use of inotifywait**
 
 - [all index](/indexed/tde/journal-tde.md)
+- dates: [2017-12-15](/indexed/tde/journal-tde.md#dates-2017-12-15)
 - tags: [inotify](/indexed/tde/journal-tde.md#tags-inotify)
 - actors: [tde](/indexed/tde/journal-tde.md#actors-tde)
 

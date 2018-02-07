@@ -1,6 +1,7 @@
 **Uses hg2github to migrate sudoersd roles**
 
 - [all index](/indexed/tde/journal-tde.md)
+- dates: [2017-10-24](/indexed/tde/journal-tde.md#dates-2017-10-24)
 - tags: [hg2github](/indexed/tde/journal-tde.md#tags-hg2github), [ansible](/indexed/tde/journal-tde.md#tags-ansible), [role](/indexed/tde/journal-tde.md#tags-role), [repos](/indexed/tde/journal-tde.md#tags-repos), [sudo](/indexed/tde/journal-tde.md#tags-sudo)
 - repos: https://github.com/thydel/helpers, https://github.com/thydel/ar-sudoersd
 - actors: [tde](/indexed/tde/journal-tde.md#actors-tde)

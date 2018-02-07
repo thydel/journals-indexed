@@ -1,6 +1,7 @@
 **packer and ovftool**
 
 - [all index](/indexed/tde/journal-tde.md)
+- dates: [2017-10-20](/indexed/tde/journal-tde.md#dates-2017-10-20)
 - tags: [packer](/indexed/tde/journal-tde.md#tags-packer), [vmware-workstation](/indexed/tde/journal-tde.md#tags-vmware-workstation), [ovftool](/indexed/tde/journal-tde.md#tags-ovftool), [vsphere](/indexed/tde/journal-tde.md#tags-vsphere)
 - actors: [tde](/indexed/tde/journal-tde.md#actors-tde)
 

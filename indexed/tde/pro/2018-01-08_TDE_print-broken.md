@@ -1,6 +1,7 @@
 **Fixes printer problem**
 
 - [all index](/indexed/tde/journal-tde.md)
+- dates: [2018-01-08](/indexed/tde/journal-tde.md#dates-2018-01-08)
 - tags: [printer](/indexed/tde/journal-tde.md#tags-printer)
 - nodes: [tde-ws](/indexed/tde/journal-tde.md#nodes-tde-ws)
 - actors: [tde](/indexed/tde/journal-tde.md#actors-tde)

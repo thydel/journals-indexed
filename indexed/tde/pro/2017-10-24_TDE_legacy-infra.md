@@ -1,6 +1,7 @@
 **New legacy infra repos**
 
 - [all index](/indexed/tde/journal-tde.md)
+- dates: [2017-10-24](/indexed/tde/journal-tde.md#dates-2017-10-24)
 - tags: [legacy](/indexed/tde/journal-tde.md#tags-legacy), [ansible](/indexed/tde/journal-tde.md#tags-ansible), [role](/indexed/tde/journal-tde.md#tags-role), [repos](/indexed/tde/journal-tde.md#tags-repos), [infra](/indexed/tde/journal-tde.md#tags-infra), [reboot](/indexed/tde/journal-tde.md#tags-reboot)
 - repos: https://github.com/thydel/helpers, https://github.com/thydel/legacy-infra
 - actors: [tde](/indexed/tde/journal-tde.md#actors-tde)

@@ -24,8 +24,10 @@
 - [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
 - [Discover simple use of inotifywait](pro/2017-12-15_TDE_inotifywait.md) 2017-12-15
 - [Fixes printer problem](pro/2018-01-08_TDE_print-broken.md) 2018-01-08
+- [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
 
 # [By](#short-table-of-contents) dates
+- [2018-02-07](#dates-2018-02-07)
 - [2018-01-08](#dates-2018-01-08)
 - [2017-12-15](#dates-2017-12-15)
 - [2017-11-22](#dates-2017-11-22)
@@ -52,38 +54,52 @@
 ## [dates](#by-dates) 2018-01-08
 - [Fixes printer problem](pro/2018-01-08_TDE_print-broken.md) 2018-01-08
 
+## [dates](#by-dates) 2018-02-07
+- [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
+
 
 # [By](#short-table-of-contents) tags
-- [ansible](#tags-ansible)
-- [aws](#tags-aws)
-- [digitalocean](#tags-digitalocean)
-- [gnome-keyring-dameon](#tags-gnome-keyring-dameon)
-- [gnupg](#tags-gnupg)
-- [gpg-agent](#tags-gpg-agent)
-- [hg2github](#tags-hg2github)
-- [infra](#tags-infra)
-- [inotify](#tags-inotify)
-- [legacy](#tags-legacy)
-- [ovftool](#tags-ovftool)
-- [packer](#tags-packer)
-- [printer](#tags-printer)
-- [reboot](#tags-reboot)
-- [repos](#tags-repos)
-- [role](#tags-role)
-- [ssh](#tags-ssh)
-- [ssh-agent](#tags-ssh-agent)
-- [sudo](#tags-sudo)
-- [vagrant](#tags-vagrant)
-- [virtualbox](#tags-virtualbox)
-- [vmware-workstation](#tags-vmware-workstation)
-- [vsphere](#tags-vsphere)
+[ansible](#tags-ansible)
+[awk](#tags-awk)
+[aws](#tags-aws)
+[date](#tags-date)
+[digitalocean](#tags-digitalocean)
+[gnome-keyring-dameon](#tags-gnome-keyring-dameon)
+[gnupg](#tags-gnupg)
+[gpg-agent](#tags-gpg-agent)
+[hg2github](#tags-hg2github)
+[infra](#tags-infra)
+[inotify](#tags-inotify)
+[jhead](#tags-jhead)
+[jpeg](#tags-jpeg)
+[legacy](#tags-legacy)
+[ovftool](#tags-ovftool)
+[packer](#tags-packer)
+[photos](#tags-photos)
+[printer](#tags-printer)
+[reboot](#tags-reboot)
+[repos](#tags-repos)
+[role](#tags-role)
+[ssh](#tags-ssh)
+[ssh-agent](#tags-ssh-agent)
+[sudo](#tags-sudo)
+[vagrant](#tags-vagrant)
+[virtualbox](#tags-virtualbox)
+[vmware-workstation](#tags-vmware-workstation)
+[vsphere](#tags-vsphere)
 ## [tags](#by-tags) ansible
 - [Uses hg2github to migrate sudoersd roles](pro/2017-10-24_TDE_hg2github.md) 2017-10-24
 
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
 
+## [tags](#by-tags) awk
+- [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
+
 ## [tags](#by-tags) aws
 - [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+
+## [tags](#by-tags) date
+- [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
 
 ## [tags](#by-tags) digitalocean
 - [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
@@ -106,6 +122,12 @@
 ## [tags](#by-tags) inotify
 - [Discover simple use of inotifywait](pro/2017-12-15_TDE_inotifywait.md) 2017-12-15
 
+## [tags](#by-tags) jhead
+- [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
+
+## [tags](#by-tags) jpeg
+- [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
+
 ## [tags](#by-tags) legacy
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
 
@@ -116,6 +138,9 @@
 - [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
 
 - [packer and ovftool](pro/2017-10-20_TDE_packer-and-ovftool.md) 2017-10-20
+
+## [tags](#by-tags) photos
+- [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
 
 ## [tags](#by-tags) printer
 - [Fixes printer problem](pro/2018-01-08_TDE_print-broken.md) 2018-01-08
@@ -158,30 +183,32 @@
 
 
 # [By](#short-table-of-contents) nodes
-- [tde-ws](#nodes-tde-ws)
+[tde-ws](#nodes-tde-ws)
 ## [nodes](#by-nodes) tde-ws
 - [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
 
 - [Fixes printer problem](pro/2018-01-08_TDE_print-broken.md) 2018-01-08
 
+- [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
+
 
 # [By](#short-table-of-contents) repos
-- [https://github.com/thydel/ar-sudoersd](#repos-https://github.com/thydel/ar-sudoersd)
-- [https://github.com/thydel/helpers](#repos-https://github.com/thydel/helpers)
-- [https://github.com/thydel/legacy-infra](#repos-https://github.com/thydel/legacy-infra)
-- [https://github.com/thydel/misc-play](#repos-https://github.com/thydel/misc-play)
-## [repos](#by-repos) https://github.com/thydel/ar-sudoersd
+- [github.com/thydel/ar-sudoersd](#repos-githubcomthydelar-sudoersd)
+- [github.com/thydel/helpers](#repos-githubcomthydelhelpers)
+- [github.com/thydel/legacy-infra](#repos-githubcomthydellegacy-infra)
+- [github.com/thydel/misc-play](#repos-githubcomthydelmisc-play)
+## [repos](#by-repos) github.com/thydel/ar-sudoersd
 - [Uses hg2github to migrate sudoersd roles](pro/2017-10-24_TDE_hg2github.md) 2017-10-24
 
-## [repos](#by-repos) https://github.com/thydel/helpers
+## [repos](#by-repos) github.com/thydel/helpers
 - [Uses hg2github to migrate sudoersd roles](pro/2017-10-24_TDE_hg2github.md) 2017-10-24
 
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
 
-## [repos](#by-repos) https://github.com/thydel/legacy-infra
+## [repos](#by-repos) github.com/thydel/legacy-infra
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
 
-## [repos](#by-repos) https://github.com/thydel/misc-play
+## [repos](#by-repos) github.com/thydel/misc-play
 - [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
 
 
@@ -204,6 +231,8 @@
 
 - [Fixes printer problem](pro/2018-01-08_TDE_print-broken.md) 2018-01-08
 
+- [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
+
 
 # [By](#short-table-of-contents) requesters
 
@@ -221,9 +250,12 @@ Table of Contents
       * [dates 2017-11-22](#dates-2017-11-22)
       * [dates 2017-12-15](#dates-2017-12-15)
       * [dates 2018-01-08](#dates-2018-01-08)
+      * [dates 2018-02-07](#dates-2018-02-07)
    * [By tags](#by-tags)
       * [tags ansible](#tags-ansible)
+      * [tags awk](#tags-awk)
       * [tags aws](#tags-aws)
+      * [tags date](#tags-date)
       * [tags digitalocean](#tags-digitalocean)
       * [tags gnome-keyring-dameon](#tags-gnome-keyring-dameon)
       * [tags gnupg](#tags-gnupg)
@@ -231,9 +263,12 @@ Table of Contents
       * [tags hg2github](#tags-hg2github)
       * [tags infra](#tags-infra)
       * [tags inotify](#tags-inotify)
+      * [tags jhead](#tags-jhead)
+      * [tags jpeg](#tags-jpeg)
       * [tags legacy](#tags-legacy)
       * [tags ovftool](#tags-ovftool)
       * [tags packer](#tags-packer)
+      * [tags photos](#tags-photos)
       * [tags printer](#tags-printer)
       * [tags reboot](#tags-reboot)
       * [tags repos](#tags-repos)
@@ -248,10 +283,10 @@ Table of Contents
    * [By nodes](#by-nodes)
       * [nodes tde-ws](#nodes-tde-ws)
    * [By repos](#by-repos)
-      * [<a href="#by-repos">repos</a> https://github.com/thydel/ar-sudoersd](#repos-httpsgithubcomthydelar-sudoersd)
-      * [<a href="#by-repos">repos</a> https://github.com/thydel/helpers](#repos-httpsgithubcomthydelhelpers)
-      * [<a href="#by-repos">repos</a> https://github.com/thydel/legacy-infra](#repos-httpsgithubcomthydellegacy-infra)
-      * [<a href="#by-repos">repos</a> https://github.com/thydel/misc-play](#repos-httpsgithubcomthydelmisc-play)
+      * [repos github.com/thydel/ar-sudoersd](#repos-githubcomthydelar-sudoersd)
+      * [repos github.com/thydel/helpers](#repos-githubcomthydelhelpers)
+      * [repos github.com/thydel/legacy-infra](#repos-githubcomthydellegacy-infra)
+      * [repos github.com/thydel/misc-play](#repos-githubcomthydelmisc-play)
    * [By users](#by-users)
    * [By actors](#by-actors)
       * [actors TDE](#actors-tde)
