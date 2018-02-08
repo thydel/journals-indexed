@@ -25,8 +25,10 @@
 - [Discover simple use of inotifywait](pro/2017-12-15_TDE_inotifywait.md) 2017-12-15
 - [Fixes printer problem](pro/2018-01-08_TDE_print-broken.md) 2018-01-08
 - [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
+- [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
 
 # [By](#short-table-of-contents) dates
+- [2018-02-08](#dates-2018-02-08)
 - [2018-02-07](#dates-2018-02-07)
 - [2018-01-08](#dates-2018-01-08)
 - [2017-12-15](#dates-2017-12-15)
@@ -57,6 +59,9 @@
 ## [dates](#by-dates) 2018-02-07
 - [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
 
+## [dates](#by-dates) 2018-02-08
+- [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
+
 
 # [By](#short-table-of-contents) tags
 [ansible](#tags-ansible)
@@ -64,6 +69,7 @@
 [aws](#tags-aws)
 [date](#tags-date)
 [digitalocean](#tags-digitalocean)
+[exiftool](#tags-exiftool)
 [gnome-keyring-dameon](#tags-gnome-keyring-dameon)
 [gnupg](#tags-gnupg)
 [gpg-agent](#tags-gpg-agent)
@@ -75,6 +81,7 @@
 [legacy](#tags-legacy)
 [ovftool](#tags-ovftool)
 [packer](#tags-packer)
+[pdf](#tags-pdf)
 [photos](#tags-photos)
 [printer](#tags-printer)
 [reboot](#tags-reboot)
@@ -95,14 +102,21 @@
 ## [tags](#by-tags) awk
 - [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
 
+- [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
+
 ## [tags](#by-tags) aws
 - [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
 
 ## [tags](#by-tags) date
 - [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
 
+- [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
+
 ## [tags](#by-tags) digitalocean
 - [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
+
+## [tags](#by-tags) exiftool
+- [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
 
 ## [tags](#by-tags) gnome-keyring-dameon
 - [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
@@ -138,6 +152,9 @@
 - [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
 
 - [packer and ovftool](pro/2017-10-20_TDE_packer-and-ovftool.md) 2017-10-20
+
+## [tags](#by-tags) pdf
+- [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
 
 ## [tags](#by-tags) photos
 - [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
@@ -191,6 +208,8 @@
 
 - [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
 
+- [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
+
 
 # [By](#short-table-of-contents) repos
 - [github.com/thydel/ar-sudoersd](#repos-githubcomthydelar-sudoersd)
@@ -233,6 +252,8 @@
 
 - [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
 
+- [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
+
 
 # [By](#short-table-of-contents) requesters
 
@@ -251,12 +272,14 @@ Table of Contents
       * [dates 2017-12-15](#dates-2017-12-15)
       * [dates 2018-01-08](#dates-2018-01-08)
       * [dates 2018-02-07](#dates-2018-02-07)
+      * [dates 2018-02-08](#dates-2018-02-08)
    * [By tags](#by-tags)
       * [tags ansible](#tags-ansible)
       * [tags awk](#tags-awk)
       * [tags aws](#tags-aws)
       * [tags date](#tags-date)
       * [tags digitalocean](#tags-digitalocean)
+      * [tags exiftool](#tags-exiftool)
       * [tags gnome-keyring-dameon](#tags-gnome-keyring-dameon)
       * [tags gnupg](#tags-gnupg)
       * [tags gpg-agent](#tags-gpg-agent)
@@ -268,6 +291,7 @@ Table of Contents
       * [tags legacy](#tags-legacy)
       * [tags ovftool](#tags-ovftool)
       * [tags packer](#tags-packer)
+      * [tags pdf](#tags-pdf)
       * [tags photos](#tags-photos)
       * [tags printer](#tags-printer)
       * [tags reboot](#tags-reboot)
