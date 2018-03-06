@@ -26,8 +26,16 @@
 - [Fixes printer problem](pro/2018-01-08_TDE_print-broken.md) 2018-01-08
 - [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
 - [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
+- [Set PDF file timestamp from metadata, again](thy/2018-02-25_TDE_corrects-jpeg-dates.md) 2018-02-25
+- [Fix jpeg for samsung panorama](thy/2018-02-26_TDE_fix-for-panoramic.md) 2018-02-26
+- [Manually fix orientation](thy/2018-02-27_TDE_fix-orientation.md) 2018-02-27
+- [fix ubuntu eeepc](thy/2018-03-06_TDE_fix-ubuntu-eeepc.md) 2018-03-06
 
 # [By](#short-table-of-contents) dates
+- [2018-03-06](#dates-2018-03-06)
+- [2018-02-27](#dates-2018-02-27)
+- [2018-02-26](#dates-2018-02-26)
+- [2018-02-25](#dates-2018-02-25)
 - [2018-02-08](#dates-2018-02-08)
 - [2018-02-07](#dates-2018-02-07)
 - [2018-01-08](#dates-2018-01-08)
@@ -62,6 +70,18 @@
 ## [dates](#by-dates) 2018-02-08
 - [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
 
+## [dates](#by-dates) 2018-02-25
+- [Set PDF file timestamp from metadata, again](thy/2018-02-25_TDE_corrects-jpeg-dates.md) 2018-02-25
+
+## [dates](#by-dates) 2018-02-26
+- [Fix jpeg for samsung panorama](thy/2018-02-26_TDE_fix-for-panoramic.md) 2018-02-26
+
+## [dates](#by-dates) 2018-02-27
+- [Manually fix orientation](thy/2018-02-27_TDE_fix-orientation.md) 2018-02-27
+
+## [dates](#by-dates) 2018-03-06
+- [fix ubuntu eeepc](thy/2018-03-06_TDE_fix-ubuntu-eeepc.md) 2018-03-06
+
 
 # [By](#short-table-of-contents) tags
 [ansible](#tags-ansible)
@@ -69,27 +89,34 @@
 [aws](#tags-aws)
 [date](#tags-date)
 [digitalocean](#tags-digitalocean)
+[eeepc](#tags-eeepc)
 [exiftool](#tags-exiftool)
 [gnome-keyring-dameon](#tags-gnome-keyring-dameon)
 [gnupg](#tags-gnupg)
 [gpg-agent](#tags-gpg-agent)
+[graphic](#tags-graphic)
 [hg2github](#tags-hg2github)
 [infra](#tags-infra)
 [inotify](#tags-inotify)
 [jhead](#tags-jhead)
 [jpeg](#tags-jpeg)
 [legacy](#tags-legacy)
+[orientation](#tags-orientation)
 [ovftool](#tags-ovftool)
 [packer](#tags-packer)
+[panorama](#tags-panorama)
 [pdf](#tags-pdf)
+[photo](#tags-photo)
 [photos](#tags-photos)
 [printer](#tags-printer)
+[problem](#tags-problem)
 [reboot](#tags-reboot)
 [repos](#tags-repos)
 [role](#tags-role)
 [ssh](#tags-ssh)
 [ssh-agent](#tags-ssh-agent)
 [sudo](#tags-sudo)
+[ubuntu](#tags-ubuntu)
 [vagrant](#tags-vagrant)
 [virtualbox](#tags-virtualbox)
 [vmware-workstation](#tags-vmware-workstation)
@@ -104,6 +131,8 @@
 
 - [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
 
+- [Set PDF file timestamp from metadata, again](thy/2018-02-25_TDE_corrects-jpeg-dates.md) 2018-02-25
+
 ## [tags](#by-tags) aws
 - [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
 
@@ -112,11 +141,18 @@
 
 - [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
 
+- [Set PDF file timestamp from metadata, again](thy/2018-02-25_TDE_corrects-jpeg-dates.md) 2018-02-25
+
 ## [tags](#by-tags) digitalocean
 - [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
 
+## [tags](#by-tags) eeepc
+- [fix ubuntu eeepc](thy/2018-03-06_TDE_fix-ubuntu-eeepc.md) 2018-03-06
+
 ## [tags](#by-tags) exiftool
 - [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
+
+- [Set PDF file timestamp from metadata, again](thy/2018-02-25_TDE_corrects-jpeg-dates.md) 2018-02-25
 
 ## [tags](#by-tags) gnome-keyring-dameon
 - [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
@@ -126,6 +162,9 @@
 
 ## [tags](#by-tags) gpg-agent
 - [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
+
+## [tags](#by-tags) graphic
+- [fix ubuntu eeepc](thy/2018-03-06_TDE_fix-ubuntu-eeepc.md) 2018-03-06
 
 ## [tags](#by-tags) hg2github
 - [Uses hg2github to migrate sudoersd roles](pro/2017-10-24_TDE_hg2github.md) 2017-10-24
@@ -142,8 +181,15 @@
 ## [tags](#by-tags) jpeg
 - [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
 
+- [Fix jpeg for samsung panorama](thy/2018-02-26_TDE_fix-for-panoramic.md) 2018-02-26
+
+- [Manually fix orientation](thy/2018-02-27_TDE_fix-orientation.md) 2018-02-27
+
 ## [tags](#by-tags) legacy
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
+
+## [tags](#by-tags) orientation
+- [Manually fix orientation](thy/2018-02-27_TDE_fix-orientation.md) 2018-02-27
 
 ## [tags](#by-tags) ovftool
 - [packer and ovftool](pro/2017-10-20_TDE_packer-and-ovftool.md) 2017-10-20
@@ -153,14 +199,27 @@
 
 - [packer and ovftool](pro/2017-10-20_TDE_packer-and-ovftool.md) 2017-10-20
 
+## [tags](#by-tags) panorama
+- [Fix jpeg for samsung panorama](thy/2018-02-26_TDE_fix-for-panoramic.md) 2018-02-26
+
 ## [tags](#by-tags) pdf
 - [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
+
+- [Set PDF file timestamp from metadata, again](thy/2018-02-25_TDE_corrects-jpeg-dates.md) 2018-02-25
+
+## [tags](#by-tags) photo
+- [Fix jpeg for samsung panorama](thy/2018-02-26_TDE_fix-for-panoramic.md) 2018-02-26
+
+- [Manually fix orientation](thy/2018-02-27_TDE_fix-orientation.md) 2018-02-27
 
 ## [tags](#by-tags) photos
 - [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
 
 ## [tags](#by-tags) printer
 - [Fixes printer problem](pro/2018-01-08_TDE_print-broken.md) 2018-01-08
+
+## [tags](#by-tags) problem
+- [fix ubuntu eeepc](thy/2018-03-06_TDE_fix-ubuntu-eeepc.md) 2018-03-06
 
 ## [tags](#by-tags) reboot
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
@@ -184,6 +243,9 @@
 ## [tags](#by-tags) sudo
 - [Uses hg2github to migrate sudoersd roles](pro/2017-10-24_TDE_hg2github.md) 2017-10-24
 
+## [tags](#by-tags) ubuntu
+- [fix ubuntu eeepc](thy/2018-03-06_TDE_fix-ubuntu-eeepc.md) 2018-03-06
+
 ## [tags](#by-tags) vagrant
 - [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
 
@@ -200,7 +262,11 @@
 
 
 # [By](#short-table-of-contents) nodes
+[eeepc-1000h](#nodes-eeepc-1000h)
 [tde-ws](#nodes-tde-ws)
+## [nodes](#by-nodes) eeepc-1000h
+- [fix ubuntu eeepc](thy/2018-03-06_TDE_fix-ubuntu-eeepc.md) 2018-03-06
+
 ## [nodes](#by-nodes) tde-ws
 - [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
 
@@ -209,6 +275,12 @@
 - [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
 
 - [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
+
+- [Set PDF file timestamp from metadata, again](thy/2018-02-25_TDE_corrects-jpeg-dates.md) 2018-02-25
+
+- [Fix jpeg for samsung panorama](thy/2018-02-26_TDE_fix-for-panoramic.md) 2018-02-26
+
+- [Manually fix orientation](thy/2018-02-27_TDE_fix-orientation.md) 2018-02-27
 
 
 # [By](#short-table-of-contents) repos
@@ -254,6 +326,14 @@
 
 - [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
 
+- [Set PDF file timestamp from metadata, again](thy/2018-02-25_TDE_corrects-jpeg-dates.md) 2018-02-25
+
+- [Fix jpeg for samsung panorama](thy/2018-02-26_TDE_fix-for-panoramic.md) 2018-02-26
+
+- [Manually fix orientation](thy/2018-02-27_TDE_fix-orientation.md) 2018-02-27
+
+- [fix ubuntu eeepc](thy/2018-03-06_TDE_fix-ubuntu-eeepc.md) 2018-03-06
+
 
 # [By](#short-table-of-contents) requesters
 
@@ -273,38 +353,50 @@ Table of Contents
       * [dates 2018-01-08](#dates-2018-01-08)
       * [dates 2018-02-07](#dates-2018-02-07)
       * [dates 2018-02-08](#dates-2018-02-08)
+      * [dates 2018-02-25](#dates-2018-02-25)
+      * [dates 2018-02-26](#dates-2018-02-26)
+      * [dates 2018-02-27](#dates-2018-02-27)
+      * [dates 2018-03-06](#dates-2018-03-06)
    * [By tags](#by-tags)
       * [tags ansible](#tags-ansible)
       * [tags awk](#tags-awk)
       * [tags aws](#tags-aws)
       * [tags date](#tags-date)
       * [tags digitalocean](#tags-digitalocean)
+      * [tags eeepc](#tags-eeepc)
       * [tags exiftool](#tags-exiftool)
       * [tags gnome-keyring-dameon](#tags-gnome-keyring-dameon)
       * [tags gnupg](#tags-gnupg)
       * [tags gpg-agent](#tags-gpg-agent)
+      * [tags graphic](#tags-graphic)
       * [tags hg2github](#tags-hg2github)
       * [tags infra](#tags-infra)
       * [tags inotify](#tags-inotify)
       * [tags jhead](#tags-jhead)
       * [tags jpeg](#tags-jpeg)
       * [tags legacy](#tags-legacy)
+      * [tags orientation](#tags-orientation)
       * [tags ovftool](#tags-ovftool)
       * [tags packer](#tags-packer)
+      * [tags panorama](#tags-panorama)
       * [tags pdf](#tags-pdf)
+      * [tags photo](#tags-photo)
       * [tags photos](#tags-photos)
       * [tags printer](#tags-printer)
+      * [tags problem](#tags-problem)
       * [tags reboot](#tags-reboot)
       * [tags repos](#tags-repos)
       * [tags role](#tags-role)
       * [tags ssh](#tags-ssh)
       * [tags ssh-agent](#tags-ssh-agent)
       * [tags sudo](#tags-sudo)
+      * [tags ubuntu](#tags-ubuntu)
       * [tags vagrant](#tags-vagrant)
       * [tags virtualbox](#tags-virtualbox)
       * [tags vmware-workstation](#tags-vmware-workstation)
       * [tags vsphere](#tags-vsphere)
    * [By nodes](#by-nodes)
+      * [nodes eeepc-1000h](#nodes-eeepc-1000h)
       * [nodes tde-ws](#nodes-tde-ws)
    * [By repos](#by-repos)
       * [repos github.com/thydel/ar-sudoersd](#repos-githubcomthydelar-sudoersd)
