@@ -30,8 +30,10 @@
 - [Fix jpeg for samsung panorama](thy/2018-02-26_TDE_fix-for-panoramic.md) 2018-02-26
 - [Manually fix orientation](thy/2018-02-27_TDE_fix-orientation.md) 2018-02-27
 - [fix ubuntu eeepc](thy/2018-03-06_TDE_fix-ubuntu-eeepc.md) 2018-03-06
+- [Extracts file list from an email set using curl](thy/2018-03-29_TDE_curl-imap.md) 2018-03-29
 
 # [By](#short-table-of-contents) dates
+- [2018-03-29](#dates-2018-03-29)
 - [2018-03-06](#dates-2018-03-06)
 - [2018-02-27](#dates-2018-02-27)
 - [2018-02-26](#dates-2018-02-26)
@@ -82,11 +84,15 @@
 ## [dates](#by-dates) 2018-03-06
 - [fix ubuntu eeepc](thy/2018-03-06_TDE_fix-ubuntu-eeepc.md) 2018-03-06
 
+## [dates](#by-dates) 2018-03-29
+- [Extracts file list from an email set using curl](thy/2018-03-29_TDE_curl-imap.md) 2018-03-29
+
 
 # [By](#short-table-of-contents) tags
 [ansible](#tags-ansible)
 [awk](#tags-awk)
 [aws](#tags-aws)
+[curl](#tags-curl)
 [date](#tags-date)
 [digitalocean](#tags-digitalocean)
 [eeepc](#tags-eeepc)
@@ -96,6 +102,7 @@
 [gpg-agent](#tags-gpg-agent)
 [graphic](#tags-graphic)
 [hg2github](#tags-hg2github)
+[imap](#tags-imap)
 [infra](#tags-infra)
 [inotify](#tags-inotify)
 [jhead](#tags-jhead)
@@ -136,6 +143,9 @@
 ## [tags](#by-tags) aws
 - [Install and try packer and vmware workstation](pro/2017-10-19_TDE_packer-and-vmware-workstation.md) 2017-10-19
 
+## [tags](#by-tags) curl
+- [Extracts file list from an email set using curl](thy/2018-03-29_TDE_curl-imap.md) 2018-03-29
+
 ## [tags](#by-tags) date
 - [Apply file timestamp shift](thy/2018-02-07_TDE_corrects-dates.md) 2018-02-07
 
@@ -168,6 +178,9 @@
 
 ## [tags](#by-tags) hg2github
 - [Uses hg2github to migrate sudoersd roles](pro/2017-10-24_TDE_hg2github.md) 2017-10-24
+
+## [tags](#by-tags) imap
+- [Extracts file list from an email set using curl](thy/2018-03-29_TDE_curl-imap.md) 2018-03-29
 
 ## [tags](#by-tags) infra
 - [New legacy infra repos](pro/2017-10-24_TDE_legacy-infra.md) 2017-10-24
@@ -282,6 +295,8 @@
 
 - [Manually fix orientation](thy/2018-02-27_TDE_fix-orientation.md) 2018-02-27
 
+- [Extracts file list from an email set using curl](thy/2018-03-29_TDE_curl-imap.md) 2018-03-29
+
 
 # [By](#short-table-of-contents) repos
 - [github.com/thydel/ar-sudoersd](#repos-githubcomthydelar-sudoersd)
@@ -334,6 +349,8 @@
 
 - [fix ubuntu eeepc](thy/2018-03-06_TDE_fix-ubuntu-eeepc.md) 2018-03-06
 
+- [Extracts file list from an email set using curl](thy/2018-03-29_TDE_curl-imap.md) 2018-03-29
+
 
 # [By](#short-table-of-contents) requesters
 
@@ -357,10 +374,12 @@ Table of Contents
       * [dates 2018-02-26](#dates-2018-02-26)
       * [dates 2018-02-27](#dates-2018-02-27)
       * [dates 2018-03-06](#dates-2018-03-06)
+      * [dates 2018-03-29](#dates-2018-03-29)
    * [By tags](#by-tags)
       * [tags ansible](#tags-ansible)
       * [tags awk](#tags-awk)
       * [tags aws](#tags-aws)
+      * [tags curl](#tags-curl)
       * [tags date](#tags-date)
       * [tags digitalocean](#tags-digitalocean)
       * [tags eeepc](#tags-eeepc)
@@ -370,6 +389,7 @@ Table of Contents
       * [tags gpg-agent](#tags-gpg-agent)
       * [tags graphic](#tags-graphic)
       * [tags hg2github](#tags-hg2github)
+      * [tags imap](#tags-imap)
       * [tags infra](#tags-infra)
       * [tags inotify](#tags-inotify)
       * [tags jhead](#tags-jhead)
