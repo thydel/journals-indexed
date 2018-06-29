@@ -31,8 +31,10 @@
 - [Manually fix orientation](thy/2018-02-27_TDE_fix-orientation.md) 2018-02-27
 - [fix ubuntu eeepc](thy/2018-03-06_TDE_fix-ubuntu-eeepc.md) 2018-03-06
 - [Extracts file list from an email set using curl](thy/2018-03-29_TDE_curl-imap.md) 2018-03-29
+- [GPG trap](thy/2018-06-29_TDE_gpg.md) 2018-06-29
 
 # [By](#short-table-of-contents) dates
+- [2018-06-29](#dates-2018-06-29)
 - [2018-03-29](#dates-2018-03-29)
 - [2018-03-06](#dates-2018-03-06)
 - [2018-02-27](#dates-2018-02-27)
@@ -87,6 +89,9 @@
 ## [dates](#by-dates) 2018-03-29
 - [Extracts file list from an email set using curl](thy/2018-03-29_TDE_curl-imap.md) 2018-03-29
 
+## [dates](#by-dates) 2018-06-29
+- [GPG trap](thy/2018-06-29_TDE_gpg.md) 2018-06-29
+
 
 # [By](#short-table-of-contents) tags
 [ansible](#tags-ansible)
@@ -99,6 +104,7 @@
 [exiftool](#tags-exiftool)
 [gnome-keyring-dameon](#tags-gnome-keyring-dameon)
 [gnupg](#tags-gnupg)
+[GPG](#tags-gpg)
 [gpg-agent](#tags-gpg-agent)
 [graphic](#tags-graphic)
 [hg2github](#tags-hg2github)
@@ -112,6 +118,7 @@
 [ovftool](#tags-ovftool)
 [packer](#tags-packer)
 [panorama](#tags-panorama)
+[pass](#tags-pass)
 [pdf](#tags-pdf)
 [photo](#tags-photo)
 [photos](#tags-photos)
@@ -170,6 +177,9 @@
 ## [tags](#by-tags) gnupg
 - [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
 
+## [tags](#by-tags) GPG
+- [GPG trap](thy/2018-06-29_TDE_gpg.md) 2018-06-29
+
 ## [tags](#by-tags) gpg-agent
 - [Reverts to plain old ssh-agent](pro/2017-11-22_TDE_ssh-agent.md) 2017-11-22
 
@@ -214,6 +224,9 @@
 
 ## [tags](#by-tags) panorama
 - [Fix jpeg for samsung panorama](thy/2018-02-26_TDE_fix-for-panoramic.md) 2018-02-26
+
+## [tags](#by-tags) pass
+- [GPG trap](thy/2018-06-29_TDE_gpg.md) 2018-06-29
 
 ## [tags](#by-tags) pdf
 - [Set PDF file timestamp from metadata](thy/2018-02-08_TDE_corrects-pdf-dates.md) 2018-02-08
@@ -351,6 +364,8 @@
 
 - [Extracts file list from an email set using curl](thy/2018-03-29_TDE_curl-imap.md) 2018-03-29
 
+- [GPG trap](thy/2018-06-29_TDE_gpg.md) 2018-06-29
+
 
 # [By](#short-table-of-contents) requesters
 
@@ -375,6 +390,7 @@ Table of Contents
       * [dates 2018-02-27](#dates-2018-02-27)
       * [dates 2018-03-06](#dates-2018-03-06)
       * [dates 2018-03-29](#dates-2018-03-29)
+      * [dates 2018-06-29](#dates-2018-06-29)
    * [By tags](#by-tags)
       * [tags ansible](#tags-ansible)
       * [tags awk](#tags-awk)
@@ -386,6 +402,7 @@ Table of Contents
       * [tags exiftool](#tags-exiftool)
       * [tags gnome-keyring-dameon](#tags-gnome-keyring-dameon)
       * [tags gnupg](#tags-gnupg)
+      * [tags GPG](#tags-gpg)
       * [tags gpg-agent](#tags-gpg-agent)
       * [tags graphic](#tags-graphic)
       * [tags hg2github](#tags-hg2github)
@@ -399,6 +416,7 @@ Table of Contents
       * [tags ovftool](#tags-ovftool)
       * [tags packer](#tags-packer)
       * [tags panorama](#tags-panorama)
+      * [tags pass](#tags-pass)
       * [tags pdf](#tags-pdf)
       * [tags photo](#tags-photo)
       * [tags photos](#tags-photos)
